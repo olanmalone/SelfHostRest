@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" ></meta>
+<script language="JavaScript" type="text/javascript" src="jquery-1.11.3.min.js"></script>
+<script>
+
+function a(){
+//alert("Hello");
+
+$.getJSON("http://eeepcobm:8080/api/products",function(data) { 
+				//alert(data);
+				var result = JSON.stringify(data);
+				//alert(result);
+				var obj = eval ("(" + result + ")");
+				var Products = document.getElementById('thelist');
+				var val="<ul>"
+				for(i=0;i<obj.length;i++)
+				 {
+				val += "<li>" + obj[i].Name + "</li>";
+				//alert(obj.Products[1].Name);
+				}
+				val += "</ul>"
+				//alert(val);
+				Products.innerHTML = val;
+				}
+				);
+
+//alert("Good Bye");
+}
+</script>
+</head>
+<body>
+<input type="submit" value="search" onclick="a()"/>
+<div id="thelist"></div>
+
+</body>
+</html>

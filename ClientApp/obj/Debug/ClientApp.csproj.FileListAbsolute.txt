@@ -1,0 +1,16 @@
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\ClientApp.exe
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\ClientApp.pdb
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\SelfHostRestConsole.exe
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Web.Http.dll
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\SelfHostRestConsole.pdb
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Web.Http.xml
+C:\Projects\ePosOne\SelfHostRest\ClientApp\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Projects\ePosOne\SelfHostRest\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Projects\ePosOne\SelfHostRest\ClientApp\obj\Debug\ClientApp.exe
+C:\Projects\ePosOne\SelfHostRest\ClientApp\obj\Debug\ClientApp.pdb

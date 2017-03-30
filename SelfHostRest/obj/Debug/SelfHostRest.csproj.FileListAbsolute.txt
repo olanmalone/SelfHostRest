@@ -1,0 +1,16 @@
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\SelfHostRest.exe.config
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\SelfHostRest.exe
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\SelfHostRest.pdb
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Web.Http.dll
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Web.Http.xml
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\obj\Debug\SelfHostRest.csprojResolveAssemblyReference.cache
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\obj\Debug\SelfHostRest.Properties.Resources.resources
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\obj\Debug\SelfHostRest.csproj.GenerateResource.Cache
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\obj\Debug\SelfHostRest.exe
+C:\Projects\ePosOne\SelfHostRest\SelfHostRest\obj\Debug\SelfHostRest.pdb
